@@ -1,0 +1,9 @@
+[21-Sep-2021 14:17:41 UTC] PHP Parse error:  syntax error, unexpected '$txt' (T_VARIABLE) in /home6/leafnode/diwashdhital.com.np/mail.php on line 9
+[21-Sep-2021 14:21:56 UTC] PHP Parse error:  syntax error, unexpected '$txt' (T_VARIABLE) in /home6/leafnode/diwashdhital.com.np/mail.php on line 9
+[21-Sep-2021 14:22:30 UTC] PHP Parse error:  syntax error, unexpected '$txt' (T_VARIABLE) in /home6/leafnode/diwashdhital.com.np/mail.php on line 9
+[21-Sep-2021 14:22:40 UTC] PHP Parse error:  syntax error, unexpected '$txt' (T_VARIABLE) in /home6/leafnode/diwashdhital.com.np/mail.php on line 9
+[21-Sep-2021 14:25:38 UTC] PHP Parse error:  syntax error, unexpected '$txt' (T_VARIABLE) in /home6/leafnode/diwashdhital.com.np/mail.php on line 9
+[21-Sep-2021 14:28:55 UTC] PHP Parse error:  syntax error, unexpected '$txt' (T_VARIABLE) in /home6/leafnode/diwashdhital.com.np/mail.php on line 9
+[21-Sep-2021 14:35:57 UTC] PHP Parse error:  syntax error, unexpected '" . "' (T_CONSTANT_ENCAPSED_STRING) in /home6/leafnode/diwashdhital.com.np/mail.php on line 11
+[17-Dec-2021 18:27:31 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home6/leafnode/diwashdhital.com.np/mail.php on line 14
+[11-Jan-2022 19:56:50 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home6/leafnode/diwashdhital.com.np/mail.php on line 14
